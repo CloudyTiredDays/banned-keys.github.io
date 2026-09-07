@@ -1,6 +1,8 @@
 {
-  "generated_at": "2026-09-07T12:24:33+00:00",
-  "revoked_key_hashes": [],
+  "generated_at": "2026-09-07T12:24:55+00:00",
+  "revoked_key_hashes": [
+    "9134089d43fab4fd697aaca4ae213f43ebfe07839636685f93aba0ff5e86c97b"
+  ],
   "schema_version": 1,
-  "signature": "7KYyzpuZbEOr1BOGafCpFuklPnAsGpvG8CfEUDX8ffJKvTvhaniVRusi0asyhyr0FzRVq53e+9O/TKPxKjJMDg=="
+  "signature": "bZlyHJBXMysSLWqNdobmXW5t2OkfK5nEz3tmIcItKqPYTH7OweCLbHvlIFTOyYOTqXUP49VTnq8BSLGxxnM9Bw=="
 }
