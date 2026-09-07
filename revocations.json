@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-09-07T22:32:59+00:00",
+  "generated_at": "2026-09-07T23:01:59+00:00",
   "revoked_key_hashes": [
     "052b056da89dad7f69d29636aa81157ae2aa40c335dec14a4762057f00c086c0",
     "053ed123bdb3ecbfea748bf1ccd2f0f60522703c1e44728e79c01fe3a4039859",
+    "0bc49ca68f4554a9e965b4a839dc69e629c954008ba74630de7bdb39d3d1e35b",
     "27a226d50b51c4c71c6b828f3126e085d002ed6910c8fa29072c1dfd6829f0fa",
     "2e34203b52c88fde54e39326b227402b01175a629fc43c4c1d3ebc0dc8b43eeb",
     "34e84a250f18caf9d6318cd7006de7492f8ce78b76bee64ef915fc68026aedb1",
@@ -13,5 +14,5 @@
     "9134089d43fab4fd697aaca4ae213f43ebfe07839636685f93aba0ff5e86c97b"
   ],
   "schema_version": 1,
-  "signature": "Prkj6ZlJ8k8Zsf18dhp559WRT+ZW7R3ntbg4lWxwBgwNwkrmmp0oeTHghh9f3JD31HaP5xXOzIXXKbJnefiXCQ=="
+  "signature": "w9AKQUtO2f703N47ZV2A9Pnlb2BQyoTB/I8GeYTxQxx6WIaqjWniYXL6QIJAWthMcdq6CR49px7eBt5Q3Ow9BA=="
 }
