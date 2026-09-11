@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T23:55:48+00:00",
-  "manifest_sequence": 7,
+  "generated_at": "2026-09-12T00:00:00+00:00",
+  "manifest_sequence": 8,
   "revoked_key_hashes": [
     "052b056da89dad7f69d29636aa81157ae2aa40c335dec14a4762057f00c086c0",
     "053ed123bdb3ecbfea748bf1ccd2f0f60522703c1e44728e79c01fe3a4039859",
@@ -14,10 +14,11 @@
     "5fbac935f54f71011dc5d794c19d256418b097053ef10c365c4b0792b320fa11",
     "8dbbd653906d46c944021d2c4daf9115c4f27462e43cccf9d686b31b9cdce2db",
     "9134089d43fab4fd697aaca4ae213f43ebfe07839636685f93aba0ff5e86c97b",
-    "9587ef34135d4332ef9fb031087e4c10a5ec2faff79b1439a9db2aaf242bb3e7"
+    "9587ef34135d4332ef9fb031087e4c10a5ec2faff79b1439a9db2aaf242bb3e7",
+    "9ab1601bd41dcfd65004cf490f4cf8b7fd8eb289109816baec12355002e50838"
   ],
   "schema_version": 1,
   "security_schema_version": 2,
-  "security_signature": "McUAGCQmFAeyA32XcDPmCKpXQ6KVjfhkF4gqlwKORPMcj5BrFqL6R+nqpoAnSKBrBYl/SWg/Ljyr81sdDb1bCg==",
-  "signature": "CzUcO385Y62eCHA9lIEQQi5cgjRXqH9PuTVNAZymh6XNGj0hOAFOLQ/uV0YAHb8BL2un1YQPxy+P1uieC+zABA=="
+  "security_signature": "iEORsl3GcGMQSkrDOaczY1EjXLCd8QAx7WbtTPmCwugsuwViIpJraS/TA3RJp0JKrhyfaSm8TiA6h3UPji9UDQ==",
+  "signature": "4H3UawuxNnCsziOsipJs7FlvBVuZDi5GIsA1QExY4vp4klixzqIkV28pn6SsE0jzYde2Dqxt0PoLycZwihBRAA=="
 }
