@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T06:39:20+00:00",
-  "manifest_sequence": 29,
+  "generated_at": "2026-09-16T12:39:21+00:00",
+  "manifest_sequence": 30,
   "revoked_key_hashes": [
     "052b056da89dad7f69d29636aa81157ae2aa40c335dec14a4762057f00c086c0",
     "053ed123bdb3ecbfea748bf1ccd2f0f60522703c1e44728e79c01fe3a4039859",
@@ -24,6 +24,6 @@
   ],
   "schema_version": 1,
   "security_schema_version": 2,
-  "security_signature": "6NdIYOfL1xzyLQc/4tFw+3xRfpBMNKvBdhKNZrNaC32GktRIXeeVjG1Y5QRITghYkEiBCsGalLvbE2q4KhtfAg==",
-  "signature": "7AOREohm9Krw1JEzi1AHTtIRLLwWtARH+OfKQvU9QnbijkwA3zFL0TDIhE7Ly95hCg7YBhoXIkM0EzWrS/+RCA=="
+  "security_signature": "6XHeHeitm28rmfFdt6F5L7AvmPtpsst2kYPxL72M3aafzfrlrJ9/IQEDQnmkJ2HvH3nQJl9R9toscuR+lSdDCg==",
+  "signature": "U56Sl4TRsb0QPVtWEyJ/HhONiZeQT0QNVfQtXijByLI08td7dsx7lQ0kWibSuksAy44ajvQncVwR8ATsHLP0Aw=="
 }
